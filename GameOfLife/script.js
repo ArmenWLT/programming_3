@@ -126,3 +126,5 @@ function draw() {
 
     console.log(grassArr);
 }
+
+console.log("Hellow world !!!!");
